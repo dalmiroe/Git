@@ -13,6 +13,7 @@ Push - Enviar arquvos para a hithub - Empurrar
  
 Pull - Recber arquivos do github - puxar
 
+Clonar - Copiar projetos publicos para o computador
 
 Links sobre o assunto:
 Do Guanabara
