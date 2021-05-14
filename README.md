@@ -40,7 +40,7 @@ git feth - atualiza a árvore
 
 Estágios - untracked, Unmodified, modified e staged
 
----Alguma forma práticas de trabalhar. Esta dica vem do Gabriel Faraday e gostei  
+---Forma prática de trabalhar. Esta dica vem do Gabriel Faraday e gostei  
 
 Criar o projeto no github, com gitignore e readme
 
