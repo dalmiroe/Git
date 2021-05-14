@@ -23,12 +23,19 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
 Linha de comando
 
 git init - abre um diretorio para controle
+
 git add - adiciona os arq aos diretorios criado
+
 git status - monitorar os status dos arquivos
+
 git commit -m "msg"
+
 git push origin main - enviar arquvo para o github
+
 git pull origin main - trazer do hithub para a máquina local
+
 git diff - ver diferenças entre as alterações
+
 git feth - atualiza a árvore
 
 Estágios - untracked, Unmodified, modified e staged
@@ -36,8 +43,12 @@ Estágios - untracked, Unmodified, modified e staged
 ---Alguma forma práticas de trabalhar. Esta dica vem do Gabriel Faraday e gostei  
 
 Criar o projeto no github, com gitignore e readme
+
 Git Clone - Clonar para a maquina local
+
 Git pull para trazer os aquivos do github
+
 Git init/add/commit/push após o clone e subir os arquivos da máquina local
+
 Git diff/fetch ou gitk (ferramenta visual) para verificar a situação
  
