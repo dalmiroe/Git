@@ -38,6 +38,16 @@ git diff - ver diferenças entre as alterações
 
 git feth - atualiza a árvore
 
+git log - mostra o histórico
+
+git commit --amend - mescla os commits pendentes
+
+gitk - app visual 
+
+git reset HEAD arquivo - elimina os arquivos quer foram para o head (git add)
+
+git checkout arquivo - elimina o arquivo do controle 
+
 Estágios - untracked, Unmodified, modified e staged
 
 ---Forma prática de trabalhar. Esta dica vem do Gabriel Faraday e gostei  
